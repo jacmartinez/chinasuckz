@@ -1,12 +1,1 @@
-# chinasuckz 
-CHINA WHOOOOO?!?!?!?! TRASHH CHINNNAAA JAjAjJAJj. XD
-<div class="topnav"
-id="myTopnav">
-  <a href="home.html">Home</a> 
-  <a href="news.html">News</a>
-  <a 
-href="contact.html">Contact</a> 
-  <a 
-href="about.html">About</a>   
-  <a href="loserchina.html">LoserChina</a>
-</div>
+BLOCKED ME LIKE I BLOCKED YOU ON INSTAGRAM LOOOOOOOSSSSSEEEERRRR
