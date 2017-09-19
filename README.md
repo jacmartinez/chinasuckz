@@ -1,11 +1,1 @@
-# chinasuckz 
-CHINA WHOOOOO?!?!?!?! TRASHH CHINNNAAA JAjAjJAJj. XD
-<div class="topnav"
-id="myTopnav">
-  <a href="home.html">Home</a> 
-  <a href="news.html">News</a>
-  <a 
-href="contact.html">Contact</a> 
-  <a 
-href="about.html">About</a> 
-</div>
+This webpage was made for the soul ourpose of telling China that they are A BUNCH OF FRICKEN NOODLE HEADED DOG EATING BUTT FACES!!!!
