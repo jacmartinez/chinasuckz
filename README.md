@@ -1,11 +1,2 @@
-# chinasuckz 
-CHINA WHOOOOO?!?!?!?! TRASHH CHINNNAAA JAjAjJAJj. XD
-<div class="topnav"
-id="myTopnav">
-  <a href="home.html">Home</a> 
-  <a href="news.html">News</a>
-  <a 
-href="contact.html">Contact</a> 
-  <a 
-href="about.html">About</a> 
-</div>
+FACTS 
+JAPAN IS BETTER THAN CHINA THEY EAT RICE AND NOODLES YOU NOODLE HEAD!!!1!1!!1111111!!!!!
