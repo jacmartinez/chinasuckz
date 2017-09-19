@@ -7,5 +7,6 @@ id="myTopnav">
   <a 
 href="contact.html">Contact</a> 
   <a 
-href="about.html">About</a> 
+href="about.html">About</a>   
+  <a href="loserchina.html">LoserChina</a>
 </div>
